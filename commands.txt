@@ -1,7 +1,7 @@
     1  git clone 
     2  [200~https://github.com/danilofreire/qtm350-quiz01.gi
-    3  [200~git clone https://github.com/your-username/qtm350-quiz01.git
-    4  git clone https://github.com/your-username/qtm350-quiz01.git
+    3  [200~git clone https://github.com/PIN-99/qtm350-quiz01.git
+    4  git clone https://github.com/PIN-99/qtm350-quiz01.git
     5  git clone https://github.com/danilofreire/qtm350-quiz01.git
     9  touch commands.txt
    11  git branch feature-update
